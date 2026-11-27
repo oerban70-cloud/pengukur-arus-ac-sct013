@@ -9,7 +9,7 @@ memotong kabel apa pun. ESP32 membaca sensor ribuan kali, menghitung
 arus RMS-nya, lalu menampilkan arus dan daya di LCD tiap setengah detik.
 
 Video penjelasan (60 detik):
-link menyusul setelah upload
+https://www.youtube.com/shorts/8z4cAUcHvyY
 
 ## PERINGATAN KESELAMATAN — BACA DULU
 
